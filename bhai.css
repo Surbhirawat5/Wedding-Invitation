@@ -2020,3 +2020,12 @@ body {
     font-weight: normal;
     color: var(--royal-wine);
 }
+
+
+
+@media (max-width: 600px) {
+    .hero .couple-names {
+        display: flex;
+        flex-direction: column;
+    }
+}
